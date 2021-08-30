@@ -1,1 +1,2 @@
-# MOVING-FIXED-RECT
+# collisionAlgorithm
+Algorithm to detect collision between two objects
